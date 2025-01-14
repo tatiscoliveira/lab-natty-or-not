@@ -128,3 +128,7 @@ Ao automatizar tarefas repetitivas, gerar conteúdo criativo e otimizar processo
 Entender os recursos da IA generativa e como implementá-la de forma eficiente é essencial para aproveitar todo o seu potencial. É importante estar ciente dos desafios e riscos, bem como implementar medidas para garantir o uso ético e responsável dessas tecnologias.
 
 A IA generativa é uma ferramenta poderosa que pode revolucionar a maneira como trabalhamos. Ao explorar as diversas aplicações da IA generativa e implementar estratégias eficazes, podemos maximizar a produtividade e alcançar resultados significativos em nossas áreas de atuação.
+
+
+Link do ebook: https://gamma.app/docs/Inteligencias-artificiais-generativas-Um-guia-para-aumentar-a-pro-rx8g7qr9nnj0j9r
+
